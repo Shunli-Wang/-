@@ -43,5 +43,5 @@
 - **KR视角**：怎样利用计算机符号来表示和处理知识
 - **AI视角**：怎样利用知识库来辅助理解人的语言
 - **DB视角**：用图的方式去存储知识
-- 总结：做好KG要兼容并蓄，综合利用好KR、NLP、Web、ML、DB等多方面的方法和技术。
-![KG和AI的关系](https://github.com/Shunli-Wang/-/blob/main/imgs/AI.png)
+- 总结：做好KG要兼容并蓄，综合利用好KR、NLP、Web、ML、DB等多方面的方法和技术。  
+<img src="https://github.com/Shunli-Wang/-/blob/main/imgs/AI.png" width = "500" alt="KG和AI的关系" align=center >
