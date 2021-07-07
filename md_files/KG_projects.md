@@ -1,6 +1,6 @@
 
 # 二、知识图谱项目
-https://github.com/Shunli-Wang/Basic_Knowledge_of_KG/blob/main/imgs/KG_projects.png
+<img src="https://github.com/Shunli-Wang/Basic_Knowledge_of_KG/blob/main/imgs/KG_projects.png" width = "500" alt="知识图谱项目" align=center >
 
 **1、按照时代划分**
 - 早期知识库项目：[Cyc](https://cyc.com/)、[WordNet](https://wordnet.princeton.edu/)、[ConceptNet](http://www.conceptnet.io/)
@@ -36,7 +36,7 @@ https://github.com/Shunli-Wang/Basic_Knowledge_of_KG/blob/main/imgs/KG_projects.
     - [XLore](http://openkg.cn/dataset/xlore):清华
     - [Belief-Engine](http://openkg.cn/dataset/belief-engine):中科院自动化所
     - [PKUPie](http://openkg.cn/dataset/pku-pie):北大
-    - [ZhOnto](http://openkg.cn/dataset/zhonto):狗尾草科技
+    - [ZhOnto](http://openkg.cn/dataset/zhonto):狗尾草科技  
     工具包括：知识建模-Protégé、知识融合-Limes、知识问答-YodaQA、知识抽取-DeepDive。
 - [cnSchema.ORG](https://schema.org.cn/)：由OpenKG发起和完成的开放的知识图谱Schema标准，词汇集包含上千种概念分类、数据类型、属性和关系等常用概念定义。
 - [OpenBase.AI](http://openbase.openkg.cn/)：是OpenKG实现的类似于Wikidata的开放KG众包平台。以中文为中心，更加突出ML与众包的协同。
