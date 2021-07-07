@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/Shunli-Wang/Basic_Knowledge_of_KG/blob/main/imgs/whf_autograph%20.jpg" width = "300" alt="" align=center >
+<img src="https://github.com/Shunli-Wang/Basic_Knowledge_of_KG/blob/main/imgs/whf_autograph.png" width = "300" alt="" align=center >
 
 [一、知识图谱的基本定义](https://github.com/Shunli-Wang/Basic_Knowledge_of_KG/blob/main/md_files/KG_basic.md)  
 - 1、什么是知识？
