@@ -28,7 +28,7 @@
 - [NELL(Never-Ending Language Learner)](http://rtw.ml.cmu.edu/rtw/)：由CMU开发，采用互联网挖掘方法从Web种自动抽取三元组知识。目前已经抽取了300万+条三元组知识。
 - [Yago](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/)：由德国马普所研制的链接数据库。集成了Wikipedia、WordNet、GeoNames三个数据库，具有更加丰富的实体分类体系。还考虑了时间和空间知识，增加了时空维度的属性描述。包含1.2亿条三元组知识，是IBM Watson的后端知识库之一。
 - [Microsoft ConceptGraph](https://concept.research.microsoft.com/)：以概念层次为中心的KG，以概念定义和概念之间的IsA关系为主，可以用于短文本理解和语义消歧。V1.0包含超过540万个概念、1255万个实体和8760万个关系。
-- [LOD](https://lod-cloud.net/)（Linked Open Data）：为了实现Tim Berners-Lee于2006年发表的有关链接数据（Linked Data）作为语义网的一种实现的设想。使用URI表示万物、使用RDF和SPARQL标准。LOD已经有1143个链接数据集。
+- [LOD(Linked Open Data)](https://lod-cloud.net/)：为了实现Tim Berners-Lee于2006年发表的有关链接数据（Linked Data）作为语义网的一种实现的设想。使用URI表示万物、使用RDF和SPARQL标准。LOD已经有1143个链接数据集。
 
 - [OpenKG](http://www.openkg.cn/)：面向中文域开放知识图谱的社区项目，聚集了大量开放的中文知识图谱数据、工具和文献。对百科数据进行了链接计算和融合工作，并提供开放Dump和API。涵盖的中文知识图谱包括：
     - [Zhishi.me](http://openkg.cn/dataset/zhishi-me):狗尾草科技、东南
