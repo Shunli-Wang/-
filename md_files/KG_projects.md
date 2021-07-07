@@ -31,12 +31,12 @@ https://github.com/Shunli-Wang/Basic_Knowledge_of_KG/blob/main/imgs/KG_projects.
 - [LOD](https://lod-cloud.net/)（Linked Open Data）：为了实现Tim Berners-Lee于2006年发表的有关链接数据（Linked Data）作为语义网的一种实现的设想。使用URI表示万物、使用RDF和SPARQL标准。LOD已经有1143个链接数据集。
 
 - [OpenKG](http://www.openkg.cn/)：面向中文域开放知识图谱的社区项目，聚集了大量开放的中文知识图谱数据、工具和文献。对百科数据进行了链接计算和融合工作，并提供开放Dump和API。涵盖的中文知识图谱包括：
-    - [Zhishi.me](http://openkg.cn/dataset/zhishi-me)（狗尾草科技、东南）
-    - [CN-DBpedia](http://openkg.cn/dataset/cndbpedia)（复旦）
-    - [XLore](http://openkg.cn/dataset/xlore)（清华）
-    - [Belief-Engine](http://openkg.cn/dataset/belief-engine)（中科院自动化所）
-    - [PKUPie](http://openkg.cn/dataset/pku-pie)（北大）
-    - [ZhOnto](http://openkg.cn/dataset/zhonto)（狗尾草科技）
+    - [Zhishi.me](http://openkg.cn/dataset/zhishi-me):狗尾草科技、东南
+    - [CN-DBpedia](http://openkg.cn/dataset/cndbpedia):复旦
+    - [XLore](http://openkg.cn/dataset/xlore):清华
+    - [Belief-Engine](http://openkg.cn/dataset/belief-engine):中科院自动化所
+    - [PKUPie](http://openkg.cn/dataset/pku-pie):北大
+    - [ZhOnto](http://openkg.cn/dataset/zhonto):狗尾草科技
     工具包括：知识建模-Protégé、知识融合-Limes、知识问答-YodaQA、知识抽取-DeepDive。
 - [cnSchema.ORG](https://schema.org.cn/)：由OpenKG发起和完成的开放的知识图谱Schema标准，词汇集包含上千种概念分类、数据类型、属性和关系等常用概念定义。
 - [OpenBase.AI](http://openbase.openkg.cn/)：是OpenKG实现的类似于Wikidata的开放KG众包平台。以中文为中心，更加突出ML与众包的协同。
