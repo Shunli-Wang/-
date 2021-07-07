@@ -1,7 +1,5 @@
 
-# 一、KG的基本定义
-
-[二、知识图谱项目](https://github.com/Shunli-Wang/Basic_Knowledge_of_KG/blob/main/md_files/KG_projects.md)
+# 一、知识图谱的基本定义
 
 **1、什么是知识？**  
 &emsp;&emsp;知识是人类通过观察、学习和思考有关客观世界的各种现象而获取并总结出的所有事实（Fact）、概念（Concept）、规则（Rule）或原则（Principle）的集合。具有获取、表示和处理知识的能力是人类心智区别于其他物体中心智的重要特征。
